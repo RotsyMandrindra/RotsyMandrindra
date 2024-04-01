@@ -4,12 +4,15 @@
                                                                       
                                         - I’m RASOANAIVO Rotsy Mandrindra.
                                                                  
-                 - A L1 student in science computer at Haute Ecole d'Informatique Ivandry Antananarivo Madagascar.
+                 - A L2 student in science computer at Haute Ecole d'Informatique Ivandry Antananarivo Madagascar.
                                                       
                                                      
                  
                  
                            - I can code with these languages : Javascript, HTML5, CSS3 and Java.
+
+
+                                      -I can deploy an application in aws sam.
                            
                            
                            
