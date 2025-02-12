@@ -8,8 +8,7 @@ Passionate about development, especially on the backend, student at HEI - Haute 
 
 *   🌍  I'm based in Antananarivo, Analamanga Madagascar
 *   ✉️  You can contact me at [rotsy.rasoanaivo@gmail.com](mailto:rotsy.rasoanaivo@gmail.com)
-*   🚀  I'm currently working on [Forbidden sequences](http://main.d3clo6gjgshsnh.amplifyapp.com/)
-*   🧠  I'm learning React JS
+*   🧠  I'm learning React Native
 *   🤝  I'm open to collaborating on interesting project
   
   ### Skills 
