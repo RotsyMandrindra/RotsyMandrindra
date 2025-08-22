@@ -1,73 +1,120 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rotsy Mandrindra RASOANAIVO
-===================================================================================================================================================
+<div align="center">
 
-third year bachelor's degree in computer science
-------------------------------------------------
+# 🌟 Welcome to Rotsy Mandrindra RASOANAIVO's Profile 🌟
 
-Passionate about development, especially on the backend, student at HEI - Haute École d'Informatique Ivandry Antananarivo.
+<p><em>I am a mobile developer intern specializing in React Native. Currently, I am completing my final-year internship at Adrware Consulting while working on projects that enhance my skills. I am based in an undisclosed location but actively engage in the global developer community.</em></p>
 
-*   🌍  I'm based in Antananarivo, Analamanga Madagascar
-*   ✉️  You can contact me at [rotsy.rasoanaivo@gmail.com](mailto:rotsy.rasoanaivo@gmail.com)
-*   🧠  I'm learning React Native
-*   🤝  I'm open to collaborating on interesting project
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
+</div>
+
+<hr>
+
+## 🔭 I'm currently working on
+
+<div align="center"><p>I am currently working on The Real Madagascar, a mobile application developed with React Native that showcases Madagascar's cultural, tourist, and culinary riches. My role consists of modernizing the code base, ensuring migration to new versions of Gradle and React Native, integrating APIs, and improving the user experience through clean, high-performance, and scalable solutions.</p></div>
+
+## 🌱 I'm currently learning
+
+<div align="center"><p>Enhancing my React Native skills through code refactoring, version migration, API integration, and user experience optimization.</p></div>
+
+## 🏆 GitHub Trophies
+
+<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RotsyMandrindra&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+</p>
+
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RotsyMandrindra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotsyMandrindra&layout=compact&langs_count=10&theme=radical"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RotsyMandrindra&theme=radical&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
   
-  ### Skills 
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
+
+  <!-- DevOps -->
+  <a href="https://aws.amazon.com/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="40" height="40" alt="AWS" style="filter: drop-shadow(0 0 1px white) drop-shadow(0 0 2px white);"/>
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40" alt="GitHub"/>
+  </a>
+ 
+  <!-- AI/ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
   
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-                    </p>
-                    
-  ### Socials
-                  
-  <p align="left">
-                      <a href="https://www.facebook.com/profile.php?id=100086986646274" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.github.com/RotsyMandrindra" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="http://www.instagram.com/rotsymandrindra" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/rotsy-mandrindra-03112527a" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.x.com/RotsyMandrindra" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.threads.net/@rotsymandrindra" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-  </p>
+  <!-- Mobile -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
   
-  ### Badges 
-  
-  <a href="http://www.github.com/RotsyMandrindra"><img src="https://github-readme-stats.vercel.app/api?username=RotsyMandrindra&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RotsyMandrindra's GitHub stats" /></a>
-  
-  
-  
-  <a href="https://github.com/RotsyMandrindra" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotsyMandrindra&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+</p>
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<p align="center">
+  <a href="https://www.instagram.com/rotsy_mandrindra/">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rotsy-mandrindra-03112527a/">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/RotsyMandrindra">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40" height="40" alt="X (Twitter)"/>
+  </a>
+</p>
+
+</div>
+
+## 📫 How to reach me
+
+<div align="center">
+
+**Email:** rotsy.rasoanaivo@gmail.com
+**Phone:** +261327444260
+
+</div>
+
+<div align="center">
+
+<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URLs below -->
+<img src="https://komarev.com/ghpvc/?username=RotsyMandrindra&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+
+<img src="https://img.shields.io/github/followers/RotsyMandrindra?style=for-the-badge&color=ff69b4" alt="Followers"/>
+
+<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+
+</div>
