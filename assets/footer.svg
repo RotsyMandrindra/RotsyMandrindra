@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Let’s build something great together">
+  <title>Let’s build something great together</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.6"><stop offset="0" stop-color="#06B6D4"/><stop offset="0.35" stop-color="#3B82F6"/><stop offset="0.7" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#06B6D4"/><stop offset="0.33" stop-color="#8B5CF6"/><stop offset="0.66" stop-color="#EC4899"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+    <clipPath id="body"><path d="M0 44 Q150 30 300 44 T600 44 T900 44 T1200 44 L1200 180 L0 180 Z"/></clipPath>
+    <filter id="shadow" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#1E1B4B" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <style>
+    .title { font: 800 76px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .subtitle { font: 600 26px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .cta { font: 700 36px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .wave { animation: slide linear infinite; }
+    .spark { animation: twinkle 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .rise { animation: rise 1s ease-out both; }
+    .rise2 { animation: rise 1s ease-out 0.25s both; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    @keyframes twinkle { 0%, 100% { opacity: 0.25; transform: scale(0.7); } 50% { opacity: 0.95; transform: scale(1); } }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <path class="wave" style="animation-duration:16s;animation-direction:reverse" fill="url(#accent)" fill-opacity="0.25" d="M0 18 Q150 6 300 18 T600 18 T900 18 T1200 18 T1500 18 T1800 18 T2100 18 T2400 18 L2400 180 L0 180 Z"/><path class="wave" style="animation-duration:12s;animation-direction:normal" fill="url(#accent)" fill-opacity="0.45" d="M0 31 Q150 18 300 31 T600 31 T900 31 T1200 31 T1500 31 T1800 31 T2100 31 T2400 31 L2400 180 L0 180 Z"/>
+  <path d="M0 44 Q150 30 300 44 T600 44 T900 44 T1200 44 L1200 180 L0 180 Z" fill="url(#bg)"/>
+  <g clip-path="url(#body)">
+    <circle cx="90" cy="27" r="110" fill="#FFFFFF" opacity="0.10"/>
+    <circle cx="1130" cy="144" r="140" fill="#FFFFFF" opacity="0.08"/>
+    <circle cx="960" cy="22" r="46" fill="#FFFFFF" opacity="0.10"/>
+    <path class="wave" style="animation-duration:11s;animation-direction:normal" fill="#FFFFFF" fill-opacity="0.08" d="M0 84 Q150 68 300 84 T600 84 T900 84 T1200 84 T1500 84 T1800 84 T2100 84 T2400 84 L2400 0 L0 0 Z"/><path class="wave" style="animation-duration:15s;animation-direction:reverse" fill="#FFFFFF" fill-opacity="0.1" d="M0 70 Q150 58 300 70 T600 70 T900 70 T1200 70 T1500 70 T1800 70 T2100 70 T2400 70 L2400 0 L0 0 Z"/>
+  </g>
+  <path class="spark" style="animation-delay:0.4s" d="M170 106 Q170 118 182 118 Q170 118 170 130 Q170 118 158 118 Q170 118 170 106 Z" fill="#FFFFFF"/>
+  <path class="spark" style="animation-delay:1.4s" d="M1030 98 Q1030 112 1044 112 Q1030 112 1030 126 Q1030 112 1016 112 Q1030 112 1030 98 Z" fill="#FFFFFF"/>
+  <path class="spark" style="animation-delay:2s" d="M260 144 Q260 152 268 152 Q260 152 260 160 Q260 152 252 152 Q260 152 260 144 Z" fill="#FFFFFF"/>
+  <g filter="url(#shadow)"><text class="cta" x="600" y="120" text-anchor="middle" dominant-baseline="middle">Let’s build something great together 🚀</text></g>
+</svg>

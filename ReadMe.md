@@ -1,16 +1,11 @@
-<!-- Header: the waves at the bottom are filled with the page background, so each theme has its own file -->
+<!-- <picture> follows the browser/OS colour scheme, not the GitHub theme setting, so a viewer can get the
+     "light" variant on a dark page. Every image must therefore stay readable on both backgrounds. -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/header-dark.svg" />
-    <img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/header-light.svg" width="100%" alt="Rotsy Mandrindra — Fullstack Developer · Symfony & React" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/header.svg" width="100%" alt="Rotsy Mandrindra — Fullstack Developer · Symfony & React" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&color=61DAFB&lines=Fullstack+Developer+%F0%9F%92%BB;Symfony+%26+React+apps+%E2%9A%A1;Clean%2C+fast+%26+scalable+code+%F0%9F%9A%80" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&color=0A7EA4&lines=Fullstack+Developer+%F0%9F%92%BB;Symfony+%26+React+apps+%E2%9A%A1;Clean%2C+fast+%26+scalable+code+%F0%9F%9A%80" alt="Fullstack Developer · Symfony & React apps · Clean, fast & scalable code" />
-  </picture>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&color=6366F1&lines=Fullstack+Developer+%F0%9F%92%BB;Symfony+%26+React+apps+%E2%9A%A1;Clean%2C+fast+%26+scalable+code+%F0%9F%9A%80" alt="Fullstack Developer · Symfony & React apps · Clean, fast & scalable code" />
 </p>
 
 <p align="center">
@@ -83,16 +78,13 @@ const rotsy = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RotsyMandrindra&hide_border=false&border_radius=10&background=00000000&border=30363D&stroke=30363D&ring=61DAFB&fire=A78BFA&currStreakNum=61DAFB&currStreakLabel=61DAFB&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E" />
-    <img src="https://streak-stats.demolab.com/?user=RotsyMandrindra&hide_border=false&border_radius=10&background=00000000&border=D0D7DE&stroke=D0D7DE&ring=0A7EA4&fire=7C3AED&currStreakNum=0A7EA4&currStreakLabel=0A7EA4&sideNums=1F2328&sideLabels=1F2328&dates=656D76" alt="Contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RotsyMandrindra&hide_border=false&border_radius=10&background=0D1117&border=30363D&stroke=30363D&ring=61DAFB&fire=A78BFA&currStreakNum=61DAFB&currStreakLabel=61DAFB&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com/?user=RotsyMandrindra&hide_border=false&border_radius=10&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=0A7EA4&fire=7C3AED&currStreakNum=0A7EA4&currStreakLabel=0A7EA4&sideNums=1F2328&sideLabels=1F2328&dates=656D76" alt="Contribution streak" />
   </picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/output/snake-dark.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/output/snake-light.svg" alt="Snake eating my contribution graph" />
-  </picture>
+  <img width="100%" src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/output/snake.svg" alt="Snake eating my contribution graph" />
 </p>
 
 ## 🤝 Let's connect
@@ -106,7 +98,4 @@ const rotsy = {
   <a href="https://wa.me/261327444260"><img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/whatsapp.svg" width="52" alt="WhatsApp" /></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/footer-dark.svg" />
-  <img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/footer-light.svg" width="100%" alt="Let's build something great together" />
-</picture>
+<img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/footer.svg" width="100%" alt="Let's build something great together" />

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Rotsy Mandrindra — Fullstack Developer · Symfony &amp; React">
+  <title>Rotsy Mandrindra — Fullstack Developer · Symfony &amp; React</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.6"><stop offset="0" stop-color="#06B6D4"/><stop offset="0.35" stop-color="#3B82F6"/><stop offset="0.7" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="accent" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#06B6D4"/><stop offset="0.33" stop-color="#8B5CF6"/><stop offset="0.66" stop-color="#EC4899"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+    <clipPath id="body"><path d="M0 236 Q150 222 300 236 T600 236 T900 236 T1200 236 L1200 0 L0 0 Z"/></clipPath>
+    <filter id="shadow" x="-10%" y="-30%" width="120%" height="160%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#1E1B4B" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <style>
+    .title { font: 800 76px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .subtitle { font: 600 26px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .cta { font: 700 36px 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Helvetica, Arial, sans-serif; fill: #FFFFFF; }
+    .wave { animation: slide linear infinite; }
+    .spark { animation: twinkle 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .rise { animation: rise 1s ease-out both; }
+    .rise2 { animation: rise 1s ease-out 0.25s both; }
+    @keyframes slide { from { transform: translateX(0); } to { transform: translateX(-1200px); } }
+    @keyframes twinkle { 0%, 100% { opacity: 0.25; transform: scale(0.7); } 50% { opacity: 0.95; transform: scale(1); } }
+    @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <path class="wave" style="animation-duration:16s;animation-direction:reverse" fill="url(#accent)" fill-opacity="0.25" d="M0 262 Q150 250 300 262 T600 262 T900 262 T1200 262 T1500 262 T1800 262 T2100 262 T2400 262 L2400 0 L0 0 Z"/><path class="wave" style="animation-duration:12s;animation-direction:normal" fill="url(#accent)" fill-opacity="0.45" d="M0 249 Q150 236 300 249 T600 249 T900 249 T1200 249 T1500 249 T1800 249 T2100 249 T2400 249 L2400 0 L0 0 Z"/>
+  <path d="M0 236 Q150 222 300 236 T600 236 T900 236 T1200 236 L1200 0 L0 0 Z" fill="url(#bg)"/>
+  <g clip-path="url(#body)">
+    <circle cx="90" cy="42" r="110" fill="#FFFFFF" opacity="0.10"/>
+    <circle cx="1130" cy="224" r="140" fill="#FFFFFF" opacity="0.08"/>
+    <circle cx="960" cy="34" r="46" fill="#FFFFFF" opacity="0.10"/>
+    <path class="wave" style="animation-duration:11s;animation-direction:normal" fill="#FFFFFF" fill-opacity="0.08" d="M0 196 Q150 180 300 196 T600 196 T900 196 T1200 196 T1500 196 T1800 196 T2100 196 T2400 196 L2400 280 L0 280 Z"/><path class="wave" style="animation-duration:15s;animation-direction:reverse" fill="#FFFFFF" fill-opacity="0.1" d="M0 210 Q150 198 300 210 T600 210 T900 210 T1200 210 T1500 210 T1800 210 T2100 210 T2400 210 L2400 280 L0 280 Z"/>
+  </g>
+  <path class="spark" style="animation-delay:0s" d="M150 81 Q150 95 164 95 Q150 95 150 109 Q150 95 136 95 Q150 95 150 81 Z" fill="#FFFFFF"/>
+  <path class="spark" style="animation-delay:0.8s" d="M1060 64 Q1060 80 1076 80 Q1060 80 1060 96 Q1060 80 1044 80 Q1060 80 1060 64 Z" fill="#FFFFFF"/>
+  <path class="spark" style="animation-delay:1.6s" d="M250 190 Q250 200 260 200 Q250 200 250 210 Q250 200 240 200 Q250 200 250 190 Z" fill="#FFFFFF"/>
+  <path class="spark" style="animation-delay:2.2s" d="M980 184 Q980 195 991 195 Q980 195 980 206 Q980 195 969 195 Q980 195 980 184 Z" fill="#FFFFFF"/>
+  <path class="spark" style="animation-delay:1.2s" d="M600 29 Q600 38 609 38 Q600 38 600 47 Q600 38 591 38 Q600 38 600 29 Z" fill="#FFFFFF"/>
+  <g filter="url(#shadow)">
+  <text class="title rise" x="600" y="120" text-anchor="middle" dominant-baseline="middle">Rotsy Mandrindra</text>
+  <g class="rise2"><rect x="315" y="158" width="570" height="48" rx="24" fill="#FFFFFF" fill-opacity="0.18" stroke="#FFFFFF" stroke-opacity="0.35"/>
+  <text class="subtitle" x="600" y="183" text-anchor="middle" dominant-baseline="middle">Fullstack Developer · Symfony &amp; React</text></g>
+  </g>
+</svg>
