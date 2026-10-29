@@ -1,120 +1,112 @@
-<div align="center">
-
-# 🌟 Welcome to Rotsy Mandrindra RASOANAIVO's Profile 🌟
-
-<p><em>I am a mobile developer intern specializing in React Native. Currently, I am completing my final-year internship at Adrware Consulting while working on projects that enhance my skills. I am based in an undisclosed location but actively engage in the global developer community.</em></p>
-
-<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
-<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
-
-</div>
-
-<hr>
-
-## 🔭 I'm currently working on
-
-<div align="center"><p>I am currently working on The Real Madagascar, a mobile application developed with React Native that showcases Madagascar's cultural, tourist, and culinary riches. My role consists of modernizing the code base, ensuring migration to new versions of Gradle and React Native, integrating APIs, and improving the user experience through clean, high-performance, and scalable solutions.</p></div>
-
-## 🌱 I'm currently learning
-
-<div align="center"><p>Enhancing my React Native skills through code refactoring, version migration, API integration, and user experience optimization.</p></div>
-
-## 🏆 GitHub Trophies
-
-<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URL below -->
+<!-- Header: the waves at the bottom are filled with the page background, so each theme has its own file -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RotsyMandrindra&theme=juicyfresh&column=7&margin-w=15&margin-h=15" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/header-dark.svg" />
+    <img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/header-light.svg" width="100%" alt="Rotsy Mandrindra — Fullstack Developer · Symfony & React" />
+  </picture>
 </p>
 
-## 📊 GitHub Stats
-
-<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RotsyMandrindra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
-
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RotsyMandrindra&layout=compact&langs_count=10&theme=radical"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RotsyMandrindra&theme=radical&hide_border=false" />
-</div>
-
-## 💻 Tech Stack
-
 <p align="center">
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
-
-  <!-- DevOps -->
-  <a href="https://aws.amazon.com/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" width="40" height="40" alt="AWS" style="filter: drop-shadow(0 0 1px white) drop-shadow(0 0 2px white);"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" width="40" height="40" alt="GitHub"/>
-  </a>
- 
-  <!-- AI/ML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  
-  <!-- Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React Native"/>
-  
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-</p>
-</div>
-
-## 🌐 Socials
-
-<div align="center">
-
-<p align="center">
-  <a href="https://www.instagram.com/rotsy_mandrindra/">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/rotsy-mandrindra-03112527a/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/RotsyMandrindra">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40" height="40" alt="X (Twitter)"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&color=61DAFB&lines=Fullstack+Developer+%F0%9F%92%BB;Symfony+%26+React+apps+%E2%9A%A1;Clean%2C+fast+%26+scalable+code+%F0%9F%9A%80" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&height=50&color=0A7EA4&lines=Fullstack+Developer+%F0%9F%92%BB;Symfony+%26+React+apps+%E2%9A%A1;Clean%2C+fast+%26+scalable+code+%F0%9F%9A%80" alt="Fullstack Developer · Symfony & React apps · Clean, fast & scalable code" />
+  </picture>
 </p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_collaboration-22C55E?style=flat-square" alt="Status: open to collaboration" />
+  <img src="https://img.shields.io/badge/Fullstack_Developer-Adrware_Consulting-7C3AED?style=flat-square" alt="Fullstack Developer at Adrware Consulting" />
+  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+</p>
 
-## 📫 How to reach me
+## 👋 About me
 
-<div align="center">
+I'm a **fullstack developer** at **Adrware Consulting**, where I build web applications with **Symfony** and **React**. I joined the team in 2025 after my final-year internship there as a React Native mobile developer. I enjoy turning existing codebases into clean, fast and scalable apps, and I'm actively involved in the global developer community.
 
-**Email:** rotsy.rasoanaivo@gmail.com
-**Phone:** +261327444260
+```ts
+const rotsy = {
+  role: "Fullstack Developer @ Adrware Consulting",
+  backend: ["Symfony", "PHP", "Node.js", "Spring"],
+  frontend: ["React", "TypeScript", "JavaScript"],
+  mobile: ["React Native", "Expo"],
+  workingOn: "SaaS platform for property developers & home builders",
+  previously: "Mobile Developer Intern (React Native)",
+  openTo: "collaboration",
+};
+```
 
-</div>
+## 🏗️ What I'm working on
 
-<div align="center">
+> An all-in-one SaaS platform for the real-estate and home-building industry. Property developers and home builders use it to run each housing project, from the first sale to after-sales service.
 
-<!-- ⚠️ Important: Replace 'RotsyMandrindra' with your actual GitHub username in the URLs below -->
-<img src="https://komarev.com/ghpvc/?username=RotsyMandrindra&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+- 🤝 **Sales & customers**: CRM, buyer portal and an extranet for sales partners
+- 📝 **Administrative follow-up**: document tracking and e-signature
+- 🏗️ **Construction & handover**: site monitoring, handover reports and after-sales service
+- 💻 **My role**: fullstack development, with **Symfony** on the back end and **React** on the front end
 
-<img src="https://img.shields.io/github/followers/RotsyMandrindra?style=for-the-badge&color=ff69b4" alt="Followers"/>
+## 📱 Previously: The Real Madagascar
 
-<p>🌈 <i>Let's connect and build amazing things together!</i> 🚀</p>
+> A React Native app showcasing Madagascar's cultural, tourist and culinary riches, which I worked on during my internship.
 
-</div>
+- ⬆️ **Modernized** the codebase and migrated it to newer React Native and Gradle versions
+- 🔌 **Integrated** APIs
+- ✨ **Improved the UX** with clean, high-performance and scalable solutions
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/tech-stack-dark.svg" />
+    <img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/tech-stack-light.svg" alt="Symfony, PHP, Node.js, JavaScript, TypeScript, HTML, CSS, React / React Native, Expo, Spring, Java, Python, PostgreSQL, AWS, Gradle, Git, GitHub" />
+  </picture>
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RotsyMandrindra&style=flat-square&color=7C3AED&label=Profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/RotsyMandrindra?style=flat-square&color=0284C7&label=Followers" alt="Followers" />
+</p>
+
+<!-- Stats, languages and snake are generated daily by .github/workflows/profile-cards.yml into the `output` branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/output/stats-dark.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/output/stats-light.svg" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/output/top-langs-dark.svg" />
+    <img height="170" src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/output/top-langs-light.svg" alt="Most used languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RotsyMandrindra&hide_border=false&border_radius=10&background=00000000&border=30363D&stroke=30363D&ring=61DAFB&fire=A78BFA&currStreakNum=61DAFB&currStreakLabel=61DAFB&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com/?user=RotsyMandrindra&hide_border=false&border_radius=10&background=00000000&border=D0D7DE&stroke=D0D7DE&ring=0A7EA4&fire=7C3AED&currStreakNum=0A7EA4&currStreakLabel=0A7EA4&sideNums=1F2328&sideLabels=1F2328&dates=656D76" alt="Contribution streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/output/snake-dark.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/output/snake-light.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
+## 🤝 Let's connect
+
+<!-- Icons only: each one opens the profile, a new email or a WhatsApp chat directly -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rotsy-mandrindra-03112527a/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linkedin&theme=dark" /><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="52" alt="LinkedIn" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/RotsyMandrindra"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/x-dark.svg" /><img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/x-light.svg" width="52" alt="X" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/rotsy_mandrindra/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=instagram&theme=dark" /><img src="https://skillicons.dev/icons?i=instagram&theme=light" width="52" alt="Instagram" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:rotsy.rasoanaivo@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gmail&theme=dark" /><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="52" alt="Email" /></picture></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/261327444260"><img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/whatsapp.svg" width="52" alt="WhatsApp" /></a>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/footer-dark.svg" />
+  <img src="https://raw.githubusercontent.com/RotsyMandrindra/RotsyMandrindra/main/assets/footer-light.svg" width="100%" alt="Let's build something great together" />
+</picture>
